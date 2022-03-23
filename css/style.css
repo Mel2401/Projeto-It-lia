@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+    body{
+        background-image: url(../imagens/foto\ 13.jpg);
+        background-repeat:no-repeat;
+        background-size:cover;
+
+    }
+
+h1{
+    color:rgb(230, 121, 13);
+}
+
+h2{
+    color:rgb(252, 252, 6);
+}
+p{
+    color:rgb(255, 72, 0);
+    font-family: 'Merriweather', serif;
+    font-size: 14px; 
+ text-transform:capitalize;
+letter-spacing: 1px;
+word-spacing: 2px;
+
+
+}
+
+a{
+    color:rgb(156, 82, 7);
+}
+
+ul{
+    color: rgb(20, 20, 20);
+
+
+}
